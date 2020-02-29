@@ -1,0 +1,10 @@
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\bin\Debug\Platformer.exe.config
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\bin\Debug\Platformer.exe
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\bin\Debug\Platformer.pdb
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.csprojAssemblyReference.cache
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.Form1.resources
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.csproj.GenerateResource.cache
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.exe
+C:\Users\Eoin\Desktop\Projects\C#\Platformer\obj\Debug\Platformer.pdb
